@@ -1,0 +1,44 @@
+
+# Libraries & Tools Used
+
+- arstate: Network error handler
+- arx: Custom Kit
+- [auto_route](https://pub.dev/packages/auto_route): It’s a navigation package, it allows for strongly-typed arguments passing, effortless deep-linking and it uses code generation to simplify routes setup, with that being said it requires a minimal amount of code to generate everything needed for navigation inside of your App.
+- [auto_size_text](https://pub.dev/packages/auto_size_text): widget that automatically resizes text to fit perfectly within its bounds.
+- [country_code_picker](https://pub.dev/packages/country_code_picker): package for showing a country code selector.
+- [dio](https://pub.dev/packages/dio): A powerful Http client
+- [equatable](https://pub.dev/packages/equatable): Simplify Equality Comparisons
+- [firebase_core](https://pub.dev/packages/firebase_core): plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
+- [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics): Crashlytics
+- [firebase_messaging](https://pub.dev/packages/firebase_messaging): Firebase Messaging Plugin for Flutter 
+- [firebase_phone_auth_handler](https://pub.dev/packages/firebase_phone_auth_handler): An easy-to-use firebase phone authentication package to easily send and verify OTP's with auto-fetch OTP support via SMS.
+- [flag](https://pub.dev/packages/flag): A flag Flutter package 
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc): Widgets that make it easy to integrate blocs and cubits
+- [flutter_countdown_timer](https://pub.dev/packages/flutter_countdown_timer): A simple flutter countdown timer widget.
+- [flutter_dotenv](https://pub.dev/packages/flutter_dotenv): Load configuration at runtime from a .env file which can be used throughout the application.
+- [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications): A cross platform plugin for displaying local notifications.
+- [flutter_native_splash](https://pub.dev/packages/flutter_native_splash): Native Splash Screen
+- [flutter_staggered_animations](https://pub.dev/packages/flutter_staggered_animations): Easily add staggered animations to your ListView, GridView, Column and Row
+- [flutter_svg](https://pub.dev/packages/flutter_svg): Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
+- [form_validator](https://pub.dev/packages/form_validator): Simplest form validation for flutter form widgets.
+- [freezed_annotation](https://pub.dev/packages/freezed_annotation): Annotations for freezed.
+- [get_it](https://pub.dev/packages/get_it): This is a simple Service Locator for Dart and Flutter projects
+- [get_storage](https://pub.dev/packages/get_storage): A fast, extra light and synchronous key-value in memory
+- [google_fonts](https://pub.dev/packages/google_fonts): A Flutter package to use fonts from fonts.google.com.
+- [google_sign_in](https://pub.dev/packages/google_sign_in): A Flutter plugin for Google Sign In.
+- [image_cropper](https://pub.dev/packages/image_cropper): A Flutter plugin for Android, iOS and Web supports cropping images. This plugin is based on three different native libraries so it comes with different UI between these platforms.
+- [image_picker](https://pub.dev/packages/image_picker): A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
+- [in_app_review](https://pub.dev/packages/in_app_review): In-app review plugin for Flutter.
+- [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination): A pagination widget for flutter.
+- [intl](https://pub.dev/packages/intl): Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.
+- [json_annotation](https://pub.dev/packages/json_annotation): Defines the annotations used by json_serializable to create code for JSON serialization and deserialization.
+- [logger](https://pub.dev/packages/logger): Small, easy to use and extensible logger which prints beautiful logs.
+- [modal_bottom_sheet](https://pub.dev/packages/modal_bottom_sheet): A modal bottom sheet widget for flutter.
+- [package_info_plus](https://pub.dev/packages/package_info_plus): A package info plugin for Flutter.
+- [pinput](https://pub.dev/packages/pinput): A Flutter plugin for input widgets.
+- [scroll_app_bar](https://pub.dev/packages/scroll_app_bar): A scrollable app bar widget for flutter.
+- [shared_preferences](https://pub.dev/packages/shared_preferences): A Flutter plugin for SharedPreferences.
+- [shimmer](https://pub.dev/packages/shimmer): A shimmer widget for flutter.
+- [timeago](https://pub.dev/packages/timeago): A Flutter plugin for timeago.
+- [url_launcher](https://pub.dev/packages/url_launcher): A Flutter plugin for launching URLs.
+
