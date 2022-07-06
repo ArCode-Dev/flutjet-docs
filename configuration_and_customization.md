@@ -59,7 +59,7 @@ Move your config file into the **android/app** directory of your Flutter app.
 Follow the instruction for enabling Firebase services in your Android app [here](https://firebase.google.com/docs/flutter/setup?platform=android)
 
 
-### Enable the Google, Phone and Apple SignIn
+### Enable the Google And Phone
 
 In Firebase console, open the Authentication section.
 On the Sign-in Method tab, enable the Google Sign method and click save same as Apple and Phone signIn method.

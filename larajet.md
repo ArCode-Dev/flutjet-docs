@@ -2,7 +2,8 @@
 
 #  API
 
-Flutjet API made from [Laravel 9](https://laravel.com/)
+Flutjet API made from [Laravel 9](https://laravel.com/) <br>
+Example of API Documentations [Here](http://103.82.243.88/docs)
 
 ## Requirements
 - PHP >= 8.0
