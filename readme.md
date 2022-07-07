@@ -3,10 +3,10 @@
 Flutjet is a beautifully designed application starter kit for Flutter and provides the perfect starting point for your next Flutter application. Flutjet provides the implementation for your application's login, registration, account management & much more. See Example [API Documentations](http://103.82.243.88/docs)
 
 <a target=blank href="#"><button type="button" class="btn btn-primary">Download Flutjet</button></a>
-<br><br>
-
-![image info](./images/thum.png)
 <br><br><br>
+
+<!-- ![image info](./images/thum.png) -->
+<!-- <br><br><br> -->
 
 
 #### DEMO MOBILE APP
